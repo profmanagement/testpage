@@ -2,7 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/procedere/</loc>
+    <loc>http://localhost:1313/posts/initiation/</loc>
+    <lastmod>2025-04-13T19:42:58+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/postupload/</loc>
     <lastmod>2025-04-13T19:42:58+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/firstpost/</loc>

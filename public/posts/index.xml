@@ -10,10 +10,17 @@
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cheat Sheet for Initiating Hugo Website</title>
-      <link>http://localhost:1313/posts/procedere/</link>
+      <link>http://localhost:1313/posts/initiation/</link>
       <pubDate>Sun, 13 Apr 2025 19:42:58 +0200</pubDate>
-      <guid>http://localhost:1313/posts/procedere/</guid>
+      <guid>http://localhost:1313/posts/initiation/</guid>
       <description>&lt;p&gt;Certainly! Here&amp;rsquo;s a concise cheat sheet summarizing the successful steps you took to create and deploy your first Hugo website using GitHub Pages:&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-hugo--github-pages-deployment-cheat-sheet&#34;&gt;🛠️ Hugo &amp;amp; GitHub Pages Deployment Cheat Sheet&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-install-hugo-extended&#34;&gt;1. &lt;strong&gt;Install Hugo Extended&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Ensure you have the Extended version of Hugo, which is necessary for themes like Ananke that utilize SCSS/SASS&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-bashsudo&#34; data-lang=&#34;bashsudo&#34;&gt;wget https://github.com/gohugoio/hugo/releases/download/v0.128.0/hugo_extended_0.128.0_Linux-64bit.deb&#xA;sudo dpkg -i hugo_extended_0.128.0_Linux-64bit.de&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-create-a-new-hugo-site&#34;&gt;2. &lt;strong&gt;Create a New Hugo Site&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-bashhugo&#34; data-lang=&#34;bashhugo&#34;&gt;cd my-hugo-sit&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;3-add-a-theme-eg-ananke&#34;&gt;3. &lt;strong&gt;Add a Theme (e.g., Ananke)&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-bashgit&#34; data-lang=&#34;bashgit&#34;&gt;git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/anank&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&#xA;Update your configuration file (e.g., &lt;code&gt;config.toml&lt;/code&gt; or &lt;code&gt;hugo.toml&lt;/code&gt;) to include&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cheat Sheet for Initiating Hugo Website</title>
+      <link>http://localhost:1313/posts/postupload/</link>
+      <pubDate>Sun, 13 Apr 2025 19:42:58 +0200</pubDate>
+      <guid>http://localhost:1313/posts/postupload/</guid>
+      <description>&lt;p&gt;To publish a new post on your Hugo website hosted via GitHub Pages, follow these steps:&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-step-1-create-a-new-post&#34;&gt;📝 Step 1: Create a New Post&lt;/h2&gt;&#xA;&lt;p&gt;In your Hugo site&amp;rsquo;s root directory, run&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-bashhugo&#34; data-lang=&#34;bashhugo&#34;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&#xA;Replace &lt;code&gt;your-post-title&lt;/code&gt; with a suitable filename for your post. This command creates a new Markdown file in the &lt;code&gt;content/posts/&lt;/code&gt; directory&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-step-2-edit-the-post-content&#34;&gt;✏️ Step 2: Edit the Post Content&lt;/h2&gt;&#xA;&lt;p&gt;1.Open the newly created file in your text editor&#xA;2.Modify the front matter at the top of the file to set &lt;code&gt;draft: false&lt;/code&gt; so the post will be published&lt;/p&gt;</description>
     </item>
     <item>
       <title>Firstpost</title>
