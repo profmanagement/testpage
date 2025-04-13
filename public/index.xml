@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Apr 2025 19:42:58 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firstpost</title>
+      <link>http://localhost:1313/posts/firstpost/</link>
+      <pubDate>Sun, 13 Apr 2025 19:42:58 +0200</pubDate>
+      <guid>http://localhost:1313/posts/firstpost/</guid>
+      <description>&lt;p&gt;Visual Studio Code&#xA;Docs&#xA;Updates&#xA;Blog&#xA;API&#xA;Extensions&#xA;FAQ&#xA;GitHub Copilot&#xA;Switch to the light theme&#xA;Search Docs&#xA;Download&#xA;Join us for VS Code Live: Agent Mode Day on April 16th!&lt;/p&gt;&#xA;&lt;p&gt;Dismiss this update&#xA;Overview&#xA;Setup&#xA;Get Started&#xA;Configure&#xA;Edit code&#xA;Build, Debug, Test&#xA;Source Control&#xA;Overview&#xA;Introduction to Git&#xA;Collaborate on GitHub&#xA;FAQ&#xA;Terminal&#xA;GitHub Copilot&#xA;Languages&#xA;Node.js / JavaScript&#xA;TypeScript&#xA;Python&#xA;Java&#xA;C++&#xA;C#&#xA;Docker&#xA;Data Science&#xA;Intelligent Apps&#xA;Azure&#xA;Remote&#xA;Dev Containers&#xA;Reference&#xA;Working with GitHub in VS Code&#xA;GitHub is a cloud-based service for storing and sharing source code. Using GitHub with Visual Studio Code lets you share your source code and collaborate with others right within your editor. There are many ways to interact with GitHub, for example, via their website at &lt;a href=&#34;https://github.com&#34;&gt;https://github.com&lt;/a&gt; or the Git command-line interface (CLI), but in VS Code, the rich GitHub integration is provided by the GitHub Pull Requests and Issues extension.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
